@@ -15,8 +15,7 @@ http://womena.com/wp-content/uploads/2016/01/Diversity-in-Tech.jpg
 
 # INFOGRAPHIC ANALYSIS
 
-- CLAIM - "DIVERSITY GAP IN SILICON VALLEY 2014" 
-
+- CLAIM - "DIVERSITY GAP IN SILICON VALLEY 2014" :
 This claim is misleading because the data sources used to represent these numbers are either Global stats for Gender    diversity OR Countrywide stats for racial diversity. Hence its not about Diversity Gap in Silicon Valley, Its about Diversity Gap in Tech companies probably headquartered in Silicon Valley.
   
 - This infographic only gives data represention of 2014, hence there is no comparitive data available to understand the progress or no progress made in closing Diversity Gap in these companies.
