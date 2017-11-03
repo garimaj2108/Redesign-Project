@@ -13,7 +13,7 @@ http://womena.com/wp-content/uploads/2016/01/Diversity-in-Tech.jpg
 
 # INFOGRAPHIC ANALYSIS
 
-# Claim - "DIVERSITY GAP IN SILICON VALLEY 2014" 
+CLAIM - "DIVERSITY GAP IN SILICON VALLEY 2014" 
 This claim is misleading because the data sources used to represent these numbers are either Global stats for Gender    diversity OR Countrywide stats for racial diversity. Hence its not about Diversity Gap in Silicon Valley, Its about Diversity Gap in Tech companies probably headquartered in Silicon Valley.
   
 This infographic only gives data represention of 2014, hence there is no comparitive data available to understand the progress or no progress made in closing Diversity Gap in these companies.
@@ -22,7 +22,7 @@ The only thing that I can currently glean from this infographic is average perce
 
 # CHANGES PROPOSED TO BRING MORE VALUE TO THIS INFOGRAPHIC
 
-- CLAIM: DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
+CLAIM - DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
 - To understand whether diversity gap exists only in tech jobs or are they equally prevalent in non-tech jobs, I am representing the diversity statistics for both tech and non tech roles in major Tech companies like Google, Facebook, Apple, Tumblr, Ebay, Linkedin, Twitter, Pinterest.
 My aim in doing so is to identify and quantify the gap in tech field vs non-tech field so that corrective measures can be taken to address the issue..
 - I am also providing a comparitive analysis of Gender Diversity, Racial Diversity vis-a-vis overall U.S Gender distribution and U.S Racial distribution, to better understand gender or racial representation in workspace. 
