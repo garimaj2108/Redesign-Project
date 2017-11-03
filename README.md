@@ -2,8 +2,10 @@
 # DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
 
 Diversity & Inclusion have been the talk of the town for a while now. Serious commitment towards diversity & inclusion started in 2013 when Tech companies started publishing their diversity numbers. But why just Tech companies, Even today more than 90% of Non-Tech companies do not release their diversity numbers. 
+
 While starting out the project, I wanted to conduct a comparative analysis between Tech & Non-Tech companies. But due unavailability of data from Non-Tech companies I was unable to derive any meaningful insights with this comparison. 
 Hence, I decided to move my focus & compare the diversity rates among Tech and Non-Tech roles within Tech companies. My analysis revealed that the diversity gap in Non-Tech roles is marginal vis-a-vis the diversity gap in Tech roles is substantial.
+
 My motivation to pursue this topic was for personal gains. Being a woman, who has many a times felt marginalized or discriminated, I wanted to take this opportunity to research & understand the progress that has been made in the forays of diversity. 
 
 
@@ -13,9 +15,8 @@ http://womena.com/wp-content/uploads/2016/01/Diversity-in-Tech.jpg
 
 # INFOGRAPHIC ANALYSIS
 
-CLAIM - "DIVERSITY GAP IN SILICON VALLEY 2014" 
-
-- This claim is misleading because the data sources used to represent these numbers are either Global stats for Gender    diversity OR Countrywide stats for racial diversity. Hence its not about Diversity Gap in Silicon Valley, Its about Diversity Gap in Tech companies probably headquartered in Silicon Valley.
+- CLAIM - "DIVERSITY GAP IN SILICON VALLEY 2014" 
+This claim is misleading because the data sources used to represent these numbers are either Global stats for Gender    diversity OR Countrywide stats for racial diversity. Hence its not about Diversity Gap in Silicon Valley, Its about Diversity Gap in Tech companies probably headquartered in Silicon Valley.
   
 - This infographic only gives data represention of 2014, hence there is no comparitive data available to understand the progress or no progress made in closing Diversity Gap in these companies.
 
