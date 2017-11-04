@@ -80,3 +80,7 @@ Women and Minorities are insufficiently represented in Tech & Leadership roles i
 # Action:
 The information gleaned from these infographics can be used to understand why a certain race or gender is represented less in Tech/ Leadership roles and what can be done to encourage under represented races/ gender to be a part of the Tech community.
 
+# Redsigned Visualization
+
+![Alt text](/Users/garimajain/Desktop/Story\ 1.png?raw=true "Diversity Gap in Tech Companies")
+
