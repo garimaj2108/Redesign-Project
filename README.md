@@ -1,4 +1,5 @@
-# REDESIGN PROJECT
+# HOW DO TECH'S BIGGEST COMPANIES COMPARE ON DIVERSITY?
+
 # DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
 
 Diversity & Inclusion have been the talk of the town for a while now. Serious commitment towards diversity & inclusion started in 2013 when Tech companies started publishing their diversity numbers. But why just Tech companies, Even today more than 90% of Non-Tech companies do not release their diversity numbers. 
