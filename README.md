@@ -82,6 +82,5 @@ The information gleaned from these infographics can be used to understand why a 
 
 # Redsigned Visualization
 
-![Alt text](https://public.tableau.com/profile/garima8871#!/vizhome/DiversityinTech-2/Story1?publish=yes
- "Diversity in Tech")
+https://public.tableau.com/profile/garima8871#!/vizhome/DiversityinTech-2/Story1?publish=yes
 
