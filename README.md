@@ -31,6 +31,9 @@ The motivation to pursue this topic is intrinsic. Being a woman, who has many a 
 
 # Infographic to be redesigned
 
+![Alt text](http://womena.com/wp-content/uploads/2016/01/Diversity-in-Tech.jpg "Diversity in Tech")
+
+
 # Goal of Redesign
 
 The goal of redesign is to develop a visulization which provides insights into diversity gap, enhances and adds depth to the original infographic, making this new visualization a better resource for reference.
