@@ -10,7 +10,7 @@ https://public.tableau.com/profile/garima8871#!/vizhome/DiversityinTech-2/Story1
 
 P.S: ALL NUMBERS HAVE BEEN ROUNDED IN THE STORY BOARD
 
-Video Link:
+Video Link: https://youtu.be/aVpmnU975kI
 
 
 # Project Outline:
