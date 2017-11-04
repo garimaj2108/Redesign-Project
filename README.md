@@ -1,95 +1,79 @@
-# HOW DO TECH'S BIGGEST COMPANIES COMPARE ON DIVERSITY?
+# Redesign Project
 
-DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
+Infographic Link: http://womena.com/wp-content/uploads/2016/01/Diversity-in-Tech.jpg
+
+Dataset Link: https://docs.google.com/a/scu.edu/document/d/1mCqOIjO4rM6JmhFT3k_E9YzYOGwZX9UAxCJkHezHU2k/edit?usp=sharing
+
+Redesigned Visualization Link: 
+
+https://public.tableau.com/profile/garima8871#!/vizhome/DiversityinTech-2/Story1?publish=yes
+
+P.S: ALL NUMBERS HAVE BEEN ROUNDED IN THE STORY BOARD
+
+Video Link:
+
+
+# Project Outline:
+
+The project consists of redesigning the infographic of "Diversity Gap in Silicon Valley 2014".
+
+The analysis is based on Top 8 Tech Companies and data is collected from their respective published diversity reports.
+
+# Project Motivation
 
 Diversity & Inclusion have been the talk of the town for a while now. Serious commitment towards diversity & inclusion started in 2013 when Tech companies started publishing their diversity numbers. But why just Tech companies, Even today more than 90% of Non-Tech companies do not release their diversity numbers. 
 
 While starting out the project, I wanted to conduct a comparative analysis between Tech & Non-Tech companies. But due unavailability of data from Non-Tech companies I was unable to derive any meaningful insights with this comparison. 
 Hence, I decided to move my focus & compare the diversity rates among Tech and Non-Tech roles within Tech companies. My analysis revealed that the diversity gap in Non-Tech roles is marginal vis-a-vis the diversity gap in Tech roles is substantial.
 
-My motivation to pursue this topic was for personal gains. Being a woman, who has many a times felt marginalized or discriminated, I wanted to take this opportunity to research & understand the progress that has been made in the forays of diversity. 
+The motivation to pursue this topic is intrinsic. Being a woman, who has many a times felt marginalized or discriminated, I wanted to take this opportunity to research & understand the progress that has been made in the forays of diversity. 
 
 
-# REFERENCE INFOGRAPHIC
+# Infographic to be redesigned
 
-http://womena.com/wp-content/uploads/2016/01/Diversity-in-Tech.jpg
+# Goal of Redesign
 
-# INFOGRAPHIC ANALYSIS
+The goal of redesign is to develop a visulization which provides insights into diversity gap, enhances and adds depth to the original infographic, making this new visualization a better resource for reference.
+This visualization is aimed at providing Tech companies with reference data on the current status of diversity, what are out current pain points, and nudge them in a direction where they can reserach better ways to address diversity issues.
 
-- TITLE - "DIVERSITY GAP IN SILICON VALLEY 2014" :
-This claim is misleading because the data sources used to represent these numbers are either Global stats for Gender    diversity OR Countrywide stats for racial diversity. Hence its not about Diversity Gap in Silicon Valley, Its about Diversity Gap in Tech companies probably headquartered in Silicon Valley.
-  
-- This infographic only gives data represention of 2014, hence there is no comparitive data available to understand the progress or no progress made in closing Diversity Gap in these companies.
+# Why this Infographic ?
 
-- I can currently glean the average percentages of Gender Gap and Racial Diversity from this infographic, but without comparitive analysis this can be misleading because having one look at the infographic I understand that the racial diversity or Gender Diversity is highly skewed in the United States but the infographic does not share overall U.S Population Gender or Racial distribution so to put in perspective the gender gap or racial diversity gap & to understand if there actually lies a problem or not.
+Observations at a Glance: 
 
-# CHANGES PROPOSED TO BRING MORE VALUE TO THIS INFOGRAPHIC
-
-TITLE - DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
-
-CLAIM - Gender & Racial gap is very high in tech & leadership role. 
-
-- I have started each story point with a baseline of "Gender & Racial distribution of U.S Population", to give better perspective of "gender & racial distribution" against "representation". 
-
-- Census was last conducted in 2010, 
-Racial distribution: US was 16% Hispanic or Latino, 64% White, 12% Black , 4.6% Asian, 3% "other"(American Indians or Alaskans, and native Hawaiians or Pacific Islanders) and 1% Multi (people of two or more races).
-Gender distribution, US population consisted of more women than men: 49% male, 51% female — but the overall representation of women in tech companies is just 37% (Refer Overall Gender vs Racial Diversity Story Point)
-
-- To understand whether diversity gap exists only in tech jobs or are they equally prevalent in non-tech jobs, I am representing the diversity statistics for both tech and non tech roles in major Tech companies like Google, Facebook, Apple, Tumblr, Ebay, Linkedin, Twitter, Pinterest.
-My aim in doing so is to identify and quantify the gap in tech roles vs non-tech field so that corrective measures can be taken to address the issue.
-(Refer Gender vs Racial Diversity in Tech / Non-Tech roles Story Points)
-
-- The data also represents Gender & Racial Diversity statistics in Leadership roles & they look abysmal. Although U.S population consists of more Women than Men, their presence in leadership roles is miniscule.(Refer to Gender vs Racial Diversity in Leadership Role Story Point)
-
-- The information gleaned from these infographics can be used to understand why a certain race or gender is represented less in Tech/ Leadership roles and what can be done to encourage under represented races/ gender to be a part of the Tech community.
-
-# LINK TO THE STORY BOARD 
-
-https://public.tableau.com/profile/garima8871#!/vizhome/DiversityinTech-2/Story1?publish=yes
-
-P.S: ALL NUMBERS HAVE BEEN ROUNDED IN THE STORY BOARD
+1. Average Gender distribution provided
+2. Average Race distribution given
+3. Data is only collected from the year 2014
 
 
-# DATA SOURCES
-U.S Population source: 
-https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
+Problems with the infographic
+1. The claim of this infographic is about "DIVERSITY GAP IN SILICON VALLEY 2014"
+This claim is misleading because the companies used for diversity research have global or country wide presence, so to limit it to Silicon Valley is misleading 
 
-Comparitive Analysis Report for Apple-Google-Microsoft-Facebook-Intel-Twitter-Amazon:
-https://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon
+2. No comparative analysis provided, the infographic only gives data representation of 2014
+Without comparison, one simply deciphers that there is a diversity gap, but as no details about past years have been included we cannot know if the diversity gap has increased or decreased 
 
-http://pxlnv.com/blog/tech-company-diversity-stats/
+3. No baseline population comparison is provided (example U.S population distribution), to get a clear picture of current gender or racial distribution
 
-Pinterest:
-https://medium.com/@Pinterest_Engineering/diversity-and-inclusion-at-pinterest-8711ae9c8d29
+All these factors make the infographic misleading
 
-https://blog.pinterest.com/en/our-plan-more-diverse-pinterest
 
-https://blog.pinterest.com/en/2016-update-diversity-pinterest
+# How I went about redesigning the Project
+1. First I changed the title to "DIVERSITY GAP IN TECH COMPANIES" 
+2. I collected data from different web blogs, but because most of the blogs had visualizations embedded in them, it was not possible to scrape the data from web.
+3. I found a data set on Information is beautiful and used that dataset as my base and enhanced it further to include data about different roles in companies
+4. All the companies I selected were the same as the ones on Infographic - Google, Facebook, Apple, Tumblr, Ebay, Linkedin, Twitter & Pinterest
+5. After collecting all the data, I lightly wrangled it in Jupyter notebook because essentially there wasn't anything in the dataset that was not needed
+6. The additional data that I derived from various blogs are "Overall Diversity in a company", "Diversity in Tech roles", "Diversity in Non Tech roles", "Diversity in Leadership roles"
+8. I also collected U.S. population data to get perspective against diversity numbers
+9. I started each story point with a baseline of "Gender & Racial distribution of U.S Population", to give better perspective of "gender & racial distribution" against "representation". 
+10. What I observed in this data is that the Gender distribution consisted of more women than men: 49% male, 51% female — but the overall representation of women in tech companies is just 37% (Refer Overall Gender vs Racial Diversity Story Point)
+11. Racial distribution: US was 16% Hispanic or Latino, 64% White, 12% Black , 4.6% Asian, 3% "other"(American Indians or Alaskans, and native Hawaiians or Pacific Islanders) and 1% Multi (people of two or more races).
+12. My redesign represents Gender & Racial Diversity statistics across the company, then narrowing down to Tech, Non-Tech and Leadership roles. 
+(Refer Gender vs Racial Diversity in Tech / Non-Tech / Leadership Story Points)
 
-Google:
-http://www.google.co.uk/diversity/index.html
+# Claim:
+Women and Minorities are insufficiently represented in Tech & Leadership roles in Tech companies
 
-Linkedin:
-https://blog.linkedin.com/2014/06/12/linkedins-workforce-diversity
-
-https://careers.linkedin.com/diversity-and-inclusion?trk=li_corpblog_corp_linkedin_diversity_report_patwadors
-
-https://blog.linkedin.com/2015/06/08/linkedins-2015-workforce-diversity
-
-Tumblr:
-https://yahoo.tumblr.com/post/152561899994/yahoos-2016-diversity-report
-
-https://yahoo.tumblr.com/post/123472998984/please-see-here-for-our-eeo-1-report
-
-https://yahoo.tumblr.com/post/89085398949/workforce-diversity-at-yahoo
-
-Apple:
-https://www.apple.com/diversity/
-
-Ebay:
-https://www.ebayinc.com/assets/Uploads/Stories/Articles/diversity-2014-large.jpg
-
-https://www.ebayinc.com/stories/news/building-a-more-diverse-ebay-and-paypal/
-
-https://www.ebayinc.com/our-company/diversity-inclusion/
+# Action:
+The information gleaned from these infographics can be used to understand why a certain race or gender is represented less in Tech/ Leadership roles and what can be done to encourage under represented races/ gender to be a part of the Tech community.
 
