@@ -82,5 +82,5 @@ The information gleaned from these infographics can be used to understand why a 
 
 # Redsigned Visualization
 
-![Alt text](/Users/garimajain/Desktop/Story\ 1.png?raw=true "Diversity Gap in Tech Companies")
+![Alt text] (/Users/garimajain/Desktop/Story\ 1.png?raw=true "Diversity Gap in Tech Companies")
 
