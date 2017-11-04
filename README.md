@@ -41,24 +41,45 @@ https://public.tableau.com/profile/garima8871#!/vizhome/DiversityinTech-2/Story1
 
 
 # DATA SOURCES
+U.S Population source: 
 https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D
 
+Comparitive Analysis Report for Apple-Google-Microsoft-Facebook-Intel-Twitter-Amazon:
 https://www.theverge.com/2015/8/20/9179853/tech-diversity-scorecard-apple-google-microsoft-facebook-intel-twitter-amazon
 
 http://pxlnv.com/blog/tech-company-diversity-stats/
 
+Pinterest:
 https://medium.com/@Pinterest_Engineering/diversity-and-inclusion-at-pinterest-8711ae9c8d29
 
-http://www.google.co.uk/diversity/index.html
+https://blog.pinterest.com/en/our-plan-more-diverse-pinterest
 
 https://blog.pinterest.com/en/2016-update-diversity-pinterest
+
+Google:
+http://www.google.co.uk/diversity/index.html
+
+Linkedin:
+https://blog.linkedin.com/2014/06/12/linkedins-workforce-diversity
 
 https://careers.linkedin.com/diversity-and-inclusion?trk=li_corpblog_corp_linkedin_diversity_report_patwadors
 
 https://blog.linkedin.com/2015/06/08/linkedins-2015-workforce-diversity
 
+Tumblr:
 https://yahoo.tumblr.com/post/152561899994/yahoos-2016-diversity-report
 
+https://yahoo.tumblr.com/post/123472998984/please-see-here-for-our-eeo-1-report
+
+https://yahoo.tumblr.com/post/89085398949/workforce-diversity-at-yahoo
+
+Apple:
 https://www.apple.com/diversity/
 
+Ebay:
 https://www.ebayinc.com/assets/Uploads/Stories/Articles/diversity-2014-large.jpg
+
+https://www.ebayinc.com/stories/news/building-a-more-diverse-ebay-and-paypal/
+
+https://www.ebayinc.com/our-company/diversity-inclusion/
+
