@@ -1,6 +1,6 @@
 # HOW DO TECH'S BIGGEST COMPANIES COMPARE ON DIVERSITY?
 
-# DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
+DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
 
 Diversity & Inclusion have been the talk of the town for a while now. Serious commitment towards diversity & inclusion started in 2013 when Tech companies started publishing their diversity numbers. But why just Tech companies, Even today more than 90% of Non-Tech companies do not release their diversity numbers. 
 
@@ -29,16 +29,25 @@ TITLE - DIVERSITY GAP IN TECH COMPANIES: TECH ROLES VS NON-TECH ROLES
 
 CLAIM - Gender & Racial gap is very high in tech & leadership role. 
 
+- I have started each story point with a baseline of "Gender & Racial distribution of U.S Population", to give better perspective of "gender & racial distribution" against "representation". 
+
+- Census was last conducted in 2010, 
+Racial distribution: US was 16% Hispanic or Latino, 64% White, 12% Black , 4.6% Asian, 3% "other"(American Indians or Alaskans, and native Hawaiians or Pacific Islanders) and 1% Multi (people of two or more races).
+Gender distribution, US population consisted of more women than men: 49% male, 51% female — but the overall representation of women in tech companies is just 37% (Refer Overall Gender vs Racial Diversity Story Point)
+
 - To understand whether diversity gap exists only in tech jobs or are they equally prevalent in non-tech jobs, I am representing the diversity statistics for both tech and non tech roles in major Tech companies like Google, Facebook, Apple, Tumblr, Ebay, Linkedin, Twitter, Pinterest.
-My aim in doing so is to identify and quantify the gap in tech field vs non-tech field so that corrective measures can be taken to address the issue.
+My aim in doing so is to identify and quantify the gap in tech roles vs non-tech field so that corrective measures can be taken to address the issue.
+(Refer Gender vs Racial Diversity in Tech / Non-Tech roles Story Points)
 
-- I am also providing a comparitive analysis of Gender Diversity, Racial Diversity vis-a-vis overall U.S Gender distribution and U.S Racial distribution, to better understand gender or racial representation in workspace. 
+- The data also represents Gender & Racial Diversity statistics in Leadership roles & they look abysmal. Although U.S population consists of more Women than Men, their presence in leadership roles is miniscule.(Refer to Gender vs Racial Diversity in Leadership Role Story Point)
 
-- The information gleaned from these infographics can be used to understand why a certain race is represented more in Tech or why is there a gender gap in tech roles and what can be done to encourage under represented races/ gender to be a part of the Tech community.
+- The information gleaned from these infographics can be used to understand why a certain race or gender is represented less in Tech/ Leadership roles and what can be done to encourage under represented races/ gender to be a part of the Tech community.
 
 # LINK TO THE STORY BOARD 
 
 https://public.tableau.com/profile/garima8871#!/vizhome/DiversityinTech-2/Story1?publish=yes
+
+P.S: ALL NUMBERS HAVE BEEN ROUNDED IN THE STORY BOARD
 
 
 # DATA SOURCES
